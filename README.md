@@ -3,6 +3,7 @@ Rudimentary demonstration of a selection of fundamental steering behaviors in Un
 Each object operating according to a steering behavior consists of a cube with a sphere attached to the front to indicate direction.<br/>
 The following behaviors are represented, with the brown cube serving as the target where applicable:<br/>
 * red: seek<br/>
+* magenta: flee<br/>
 * blue: arrive and align<br/>
 * black: wander<br/>
 * purple: face<br/>
